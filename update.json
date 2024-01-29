@@ -18,7 +18,7 @@
     "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS]",
     "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-01 AIS ไม่ต้องมีโปร [VMESS&WS]",
+    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
     "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },{
     "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
@@ -27,7 +27,7 @@
     "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
     "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogY2hhY2hhMjAtcG9seTEzMDUiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },{
-    "name": "Thailand-01 AIS ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
+    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส chacha20-poly1305",
     "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIGNoYWNoYTIwLXBvbHkxMzA1Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
     "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
@@ -36,7 +36,7 @@
     "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
     "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogYWVzLTEyOC1nY20iLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },{
-    "name": "Thailand-01 AIS ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
+    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส aes-128-gcm",
     "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIGFlcy0xMjgtZ2NtIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
     "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
@@ -45,7 +45,7 @@
     "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
     "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogbm9uZSIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-01 AIS ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
+    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส none",
     "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIG5vbmUiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },{
     "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
@@ -54,7 +54,7 @@
     "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
     "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogemVybyIsInNjeSI6Inplcm8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-01 AIS ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
+    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส zero",
     "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIHplcm8iLCJzY3kiOiJ6ZXJvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }
     ]
