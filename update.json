@@ -1,127 +1,93 @@
 {
-    "version": 1.1,
-    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.1
+    "version": 1.2,
+    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.2
     🎉ยินดีต้อนรับสมาชิกใหม่เเละสมาชิกเก่าทุกๆท่านนะครับ💝
     📶รองรับเครือข่าย
     🔵DTAC ไม่ต้องมีโปร
     🔴TRUE ไม่ต้องมีโปร
     🟢AIS โปรเอไอเอสเพลย์
+    🔴TRUE โปรเฟสบุ๊คเกมมิ่ง
     
-    🆙New update, cooler than before🔥 ⚡Version 1.0
+    🆙New update, cooler than before🔥 ⚡Version 1.2
     🎉Welcome all new and old members💝
     📶 Network support
     🔵DTAC no promotion required.
     🔴TRUE No promotion required.
-    🟢AIS Play Pro",
+    🟢AIS Play Pro
+    🔴TRUE Facebook Gaming Pro",
     "data": [
     {
-    "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://b06e9eb0-eeec-403a-ae71-07698879bb2b@truemoveh.thaipro-vpn.top:8880?path=%2F&security=none&encryption=none&host=free-th1.net-v2ray.cloud&type=ws#Thailand-01+TRUE+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%9B%E0%B8%A3+%5BVLESS%26WS%5D"
+    "name": "Thailand-F1 TRUE ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://40371e28-62af-4e22-95c3-04953efc9210@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f1.internet-xray.shop&type=ws#TRUE+NOPRO+F1+VLESS%26WS"
     },{
-    "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://b06e9eb0-eeec-403a-ae71-07698879bb2b@dtacapp.thaipro-vpn.top:8880?path=%2F&security=none&encryption=none&host=free-th1.net-v2ray.cloud&type=ws#Thailand-01+DTAC+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%9B%E0%B8%A3+%5BVLESS%26WS%5D"
+    "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://40371e28-62af-4e22-95c3-04953efc9210@dtacapp.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f1.internet-xray.shop&type=ws#DTAC+NOPRO+F1+VLESS%26WS"
     },{
-    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
-    "content": "vless://bdd50562-eb98-46c1-b80f-5532b3eb6e8a@free-th1.net-v2ray.cloud:443?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#Thailand-01+AIS+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%AD%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%A2%E0%B9%8C+%5BVLESS%26WS%5D"
+    "name": "Thailand-F1 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
+    "content": "vless://4276a0cd-9648-43a9-a6a0-654d48ada3e4@thailand-f1.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F1+VLESS%26WS"
     },{
-    "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIiwic2N5IjoiemVybyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-F1 TRUE ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjEuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiI1ZDQ2ZDk4My0zZWVlLTRmNDQtOWVkOS04MGI2NjEyMzkwZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRSVUUgTk9QUk8gRjEgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLmludGVybmV0LXhyYXkuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6InRoYWlsYW5kLWYxLmludGVybmV0LXhyYXkuc2hvcCIsImlkIjoiNWQ0NmQ5ODMtM2VlZS00ZjQ0LTllZDktODBiNjYxMjM5MGU0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJEVEFDIE5PUFJPIEYxIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },{
-    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-F1 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMS5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI1ZDQ2ZDk4My0zZWVlLTRmNDQtOWVkOS04MGI2NjEyMzkwZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkFJUyBQTEFZIEYxIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },{
-    "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiBjaGFjaGEyMC1wb2x5MTMwNSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-F2 TRUE ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@truemoveh.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#TRUE+NOPRO+F2+VLESS%26WS"
     },{
-    "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogY2hhY2hhMjAtcG9seTEzMDUiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
+    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@thailand-f2.net-v2ray.cloud:443?mode=gun&fragment=&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F2+VLESS%26GRPC"
     },{
-    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส chacha20-poly1305",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIGNoYWNoYTIwLXBvbHkxMzA1Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiIiLCJpZCI6IjEyODg1MzMyLTY2MzQtNDE2Zi1hOTJjLThmMmQxMWJmNTg2MCIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUUgU09DSUFMIEYyIFZNRVNTXHUwMDI2R1JQQyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiBhZXMtMTI4LWdjbSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [TROJAN&GRPC]",
+    "content": "trojan://8da92842-d182-4e10-839e-0e42eb801234@thailand-f2.net-v2ray.cloud:443?mode=gun&security=tls&type=grpc&serviceName=trojan-grpc&sni=fbcdn.net#TRUE+SOCIAL+F2+TROJAN%26WS"
     },{
-    "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogYWVzLTEyOC1nY20iLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@dtacapp.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#DTAC+NOPRO+F2+VLESS%26WS"
     },{
-    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส aes-128-gcm",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIGFlcy0xMjgtZ2NtIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-F2 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
+    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@thailand-f2.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F2+VLESS%26WS"
     },{
-    "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiBub25lIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-F2 TRUE ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjIuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIxMjg4NTMzMi02NjM0LTQxNmYtYTkyYy04ZjJkMTFiZjU4NjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiVFJVRSBOT1BSTyBGMiBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },{
-    "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogbm9uZSIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLmludGVybmV0LXhyYXkuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6InRoYWlsYW5kLWYyLmludGVybmV0LXhyYXkuc2hvcCIsImlkIjoiMTI4ODUzMzItNjYzNC00MTZmLWE5MmMtOGYyZDExYmY1ODYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgTk9QUk8gRjIgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส none",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIG5vbmUiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-F2 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjEyODg1MzMyLTY2MzQtNDE2Zi1hOTJjLThmMmQxMWJmNTg2MCIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmF5dndzIiwicG9ydCI6IjgwIiwicHMiOiJBSVMgUExBWSBGMiBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },{
-    "name": "Thailand-01 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiB6ZXJvIiwic2N5IjoiemVybyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-F3 TRUE ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@truemoveh.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#TRUE+NOPRO+F3+VLESS%26WS"
     },{
-    "name": "Thailand-01 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDEubmV0LXYycmF5LmNsb3VkIiwiaWQiOiJiYjcyZDc1Ny1hN2UyLTQyZmUtODAwNi0wOTUzZmJkZTYyNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAxIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogemVybyIsInNjeSI6Inplcm8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
+    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@thailand-f3.net-v2ray.cloud:443?mode=gun&fragment=&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F3+VLESS%26GRPC"
     },{
-    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส zero",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6ImJiNzJkNzU3LWE3ZTItNDJmZS04MDA2LTA5NTNmYmRlNjI3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDEgQUlTIOC5hOC4oeC5iOC4leC5ieC4reC4h+C4oeC4teC5guC4m+C4oyBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIHplcm8iLCJzY3kiOiJ6ZXJvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMy5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiIiLCJpZCI6IjNlODljZTIwLWQ3NDItNDY1ZC1hNDRmLTVhYjJlNWUwNDIwMyIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUUgU09DSUFMIEYzIFZNRVNTXHUwMDI2R1JQQyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-02 TRUE ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://9c9440cc-1000-4e10-fe57-14f0c3a2d5f8@truemoveh.thaipro-vpn.top:8880?path=%2F&security=none&encryption=none&host=free-th2.net-v2ray.cloud&type=ws#Thailand-02+TRUE+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%9B%E0%B8%A3+%5BVLESS%26WS%5D"
+    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [TROJAN&GRPC]",
+    "content": "trojan://20cfb8cf-fe0b-4539-83db-0f71d1e57e79@thailand-f3.net-v2ray.cloud:443?mode=gun&fragment=&security=tls&type=grpc&serviceName=trojan-grpc&sni=fbcdn.net#TRUE+SOCIAL+F3+TROJAN%26WS"
     },{
-    "name": "Thailand-02 DTAC ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://9c9440cc-1000-4e10-fe57-14f0c3a2d5f8@dtacapp.thaipro-vpn.top:8880?path=%2F&security=none&encryption=none&host=free-th2.net-v2ray.cloud&type=ws#Thailand-02+DTAC+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%9B%E0%B8%A3+%5BVLESS%26WS%5D"
+    "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@dtacapp.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#DTAC+NOPRO+F3+VLESS%26WS"
     },{
-    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
-    "content": "vless://ae398464-7756-4f96-fd56-976a1113e5a0@free-th2.net-v2ray.cloud:443?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#Thailand-02+AIS+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%AD%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%A2%E0%B9%8C+%5BVLESS%26WS%5D"
+    "name": "Thailand-F3 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
+    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@thailand-f3.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F3+VLESS%26WS"
     },{
-    "name": "Thailand-02 TRUE ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "name": "Thailand-F3 TRUE ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjMuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIzZTg5Y2UyMC1kNzQyLTQ2NWQtYTQ0Zi01YWIyZTVlMDQyMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiVFJVRSBOT1BSTyBGMyBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },{
-    "name": "Thailand-02 DTAC ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDIubmV0LXYycmF5LmNsb3VkIiwiaWQiOiIxZmI5NDgzZS00N2IzLTQxNDgtODg0MC1lZDM0MjA3ZmM2MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAyIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLmludGVybmV0LXhyYXkuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6InRoYWlsYW5kLWYzLmludGVybmV0LXhyYXkuc2hvcCIsImlkIjoiM2U4OWNlMjAtZDc0Mi00NjVkLWE0NGYtNWFiMmU1ZTA0MjAzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgTk9QUk8gRjMgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgQUlTIOC5guC4m+C4o+C5gOC4reC5hOC4reC5gOC4reC4quC5gOC4nuC4peC4ouC5jCBbVk1FU1NcdTAwMjZXU10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    },{
-    "name": "Thailand-02 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiBjaGFjaGEyMC1wb2x5MTMwNSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    },{
-    "name": "Thailand-02 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส chacha20-poly1305",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDIubmV0LXYycmF5LmNsb3VkIiwiaWQiOiIxZmI5NDgzZS00N2IzLTQxNDgtODg0MC1lZDM0MjA3ZmM2MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAyIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogY2hhY2hhMjAtcG9seTEzMDUiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส chacha20-poly1305",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgQUlTIOC5guC4m+C4o+C5gOC4reC5hOC4reC5gOC4reC4quC5gOC4nuC4peC4ouC5jCBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIGNoYWNoYTIwLXBvbHkxMzA1Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-02 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiBhZXMtMTI4LWdjbSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    },{
-    "name": "Thailand-02 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส aes-128-gcm",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDIubmV0LXYycmF5LmNsb3VkIiwiaWQiOiIxZmI5NDgzZS00N2IzLTQxNDgtODg0MC1lZDM0MjA3ZmM2MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAyIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogYWVzLTEyOC1nY20iLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส aes-128-gcm",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgQUlTIOC5guC4m+C4o+C5gOC4reC5hOC4reC5gOC4reC4quC5gOC4nuC4peC4ouC5jCBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIGFlcy0xMjgtZ2NtIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-02 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiBub25lIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-02 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส none",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDIubmV0LXYycmF5LmNsb3VkIiwiaWQiOiIxZmI5NDgzZS00N2IzLTQxNDgtODg0MC1lZDM0MjA3ZmM2MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAyIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogbm9uZSIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส none",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgQUlTIOC5guC4m+C4o+C5gOC4reC5hOC4reC5gOC4reC4quC5gOC4nuC4peC4ouC5jCBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIG5vbmUiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    },{
-    "name": "Thailand-02 TRUE ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWgudGhhaXByby12cG4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgVFJVRSDguYTguKHguYjguJXguYnguK3guIfguKHguLXguYLguJvguKMgW1ZNRVNTXHUwMDI2V1NdIOC5gOC4guC5ieC4suC4o+C4q+C4seC4qiB6ZXJvIiwic2N5IjoiemVybyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-02 DTAC ไม่ต้องมีโปร [VMESS&WS] เข้ารหัส zero",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLnRoYWlwcm8tdnBuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZS10aDIubmV0LXYycmF5LmNsb3VkIiwiaWQiOiIxZmI5NDgzZS00N2IzLTQxNDgtODg0MC1lZDM0MjA3ZmM2MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRoYWlsYW5kLTAyIERUQUMg4LmE4Lih4LmI4LiV4LmJ4Lit4LiH4Lih4Li14LmC4Lib4LijIFtWTUVTU1x1MDAyNldTXSDguYDguILguYnguLLguKPguKvguLHguKogemVybyIsInNjeSI6Inplcm8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์ [VMESS&WS] เข้ารหัส zero",
-    "content": "vmess://eyJhZGQiOiJmcmVlLXRoMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjFmYjk0ODNlLTQ3YjMtNDE0OC04ODQwLWVkMzQyMDdmYzYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVGhhaWxhbmQtMDIgQUlTIOC5guC4m+C4o+C5gOC4reC5hOC4reC5gOC4reC4quC5gOC4nuC4peC4ouC5jCBbVk1FU1NcdTAwMjZXU10g4LmA4LiC4LmJ4Liy4Lij4Lir4Lix4LiqIHplcm8iLCJzY3kiOiJ6ZXJvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-F3 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMy5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIzZTg5Y2UyMC1kNzQyLTQ2NWQtYTQ0Zi01YWIyZTVlMDQyMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiQUlTIFBMQVkgRjMgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
     ]
     }
