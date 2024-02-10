@@ -1,6 +1,6 @@
 {
-    "version": 1.3,
-    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.3
+    "version": 1.4,
+    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.4
     🎉ยินดีต้อนรับสมาชิกใหม่เเละสมาชิกเก่าทุกๆท่านนะครับ💝
     📶รองรับเครือข่าย
     🔵DTAC ไม่ต้องมีโปร
@@ -11,7 +11,7 @@
     *วิธีสมัครโปรเฟสบุ๊คเกมส์มิ่ง กด *935*35# สมัครฟรี (กดตอนไหนก็ได้)
     *แล้วกด *935*37# หลังเที่ยงคืนนะครับ (ถ้าเบอร์ไหนใช้อยู่ ให้ใช้อีกเบอร์)
     
-    🆙New update, cooler than before🔥 ⚡Version 1.3
+    🆙New update, cooler than before🔥 ⚡Version 1.4
     🎉Welcome all new and old members💝
     📶 Network support
     🔵DTAC no promotion required.
@@ -45,13 +45,10 @@
     "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@truemoveh.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#TRUE+NOPRO+F2+VLESS%26WS"
     },{
     "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
-    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@thailand-f2.net-v2ray.cloud:443?mode=gun&fragment=&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F2+VLESS%26GRPC"
+    "content": "vless://50593ab1-92d3-400d-86bc-b96100932eb2@thailand-f2.net-v2ray.cloud:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F2+VLESS%26GRPC"
     },{
     "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiIiLCJpZCI6IjEyODg1MzMyLTY2MzQtNDE2Zi1hOTJjLThmMmQxMWJmNTg2MCIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUUgU09DSUFMIEYyIFZNRVNTXHUwMDI2R1JQQyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [TROJAN&GRPC]",
-    "content": "trojan://8da92842-d182-4e10-839e-0e42eb801234@thailand-f2.net-v2ray.cloud:443?mode=gun&security=tls&type=grpc&serviceName=trojan-grpc&sni=fbcdn.net#TRUE+SOCIAL+F2+TROJAN%26WS"
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWM2NGVlN2EtYTAxMy00NDJjLTk2YzUtYjU3NGRkNWVmYmJkIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ2bWVzcy1ncnBjIiwicG9ydCI6IjQ0MyIsInBzIjoiVFJVRSBTT0NJQUwgRjIgVk1FU1NcdTAwMjZHUlBDIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9"
     },{
     "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@dtacapp.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#DTAC+NOPRO+F2+VLESS%26WS"
@@ -72,13 +69,10 @@
     "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@truemoveh.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#TRUE+NOPRO+F3+VLESS%26WS"
     },{
     "name": "Thailand-F3 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
-    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@thailand-f3.net-v2ray.cloud:443?mode=gun&fragment=&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F3+VLESS%26GRPC"
+    "content": "vless://35c694d5-b4c3-4451-ae1f-de2d3df82214@thailand-f3.net-v2ray.cloud:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F3+VLESS%26GRPC"
     },{
     "name": "Thailand-F3 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMy5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiIiLCJpZCI6IjNlODljZTIwLWQ3NDItNDY1ZC1hNDRmLTVhYjJlNWUwNDIwMyIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUUgU09DSUFMIEYzIFZNRVNTXHUwMDI2R1JQQyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-F3 TRUE โปรเฟสบุ๊คเกมมิ่ง [TROJAN&GRPC]",
-    "content": "trojan://20cfb8cf-fe0b-4539-83db-0f71d1e57e79@thailand-f3.net-v2ray.cloud:443?mode=gun&fragment=&security=tls&type=grpc&serviceName=trojan-grpc&sni=fbcdn.net#TRUE+SOCIAL+F3+TROJAN%26WS"
+    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMy5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjRmNzU5N2MtYzAxNy00OWFjLThhZTQtNGViM2VhMDYxYTM5IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ2bWVzcy1ncnBjIiwicG9ydCI6IjQ0MyIsInBzIjoiVFJVRSBTT0NJQUwgRjMgVk1FU1NcdTAwMjZHUlBDIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9"
     },{
     "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@dtacapp.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#DTAC+NOPRO+F3+VLESS%26WS"
