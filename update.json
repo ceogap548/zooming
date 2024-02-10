@@ -1,26 +1,18 @@
 {
-    "version": 1.4,
-    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.4
+    "version": 1.5,
+    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.5
     🎉ยินดีต้อนรับสมาชิกใหม่เเละสมาชิกเก่าทุกๆท่านนะครับ💝
     📶รองรับเครือข่าย
     🔵DTAC ไม่ต้องมีโปร
     🔴TRUE ไม่ต้องมีโปร
     🟢AIS โปรเอไอเอสเพลย์
-    🔴TRUE โปรเฟสบุ๊คเกมมิ่ง
-
-    *วิธีสมัครโปรเฟสบุ๊คเกมส์มิ่ง กด *935*35# สมัครฟรี (กดตอนไหนก็ได้)
-    *แล้วกด *935*37# หลังเที่ยงคืนนะครับ (ถ้าเบอร์ไหนใช้อยู่ ให้ใช้อีกเบอร์)
-    
-    🆙New update, cooler than before🔥 ⚡Version 1.4
+  
+    🆙New update, cooler than before🔥 ⚡Version 1.5
     🎉Welcome all new and old members💝
     📶 Network support
     🔵DTAC no promotion required.
     🔴TRUE No promotion required.
-    🟢AIS Play Pro
-    🔴TRUE Facebook Gaming Pro
-    
-    *How to apply for Facebook Gaming promotion, press *935*35#, apply for free (press anytime)
-    *Then press *935*37# after midnight. (If any number is in use use another number)",
+    🟢AIS Play Pro",
     "data": [
     {
     "name": "Thailand-F1 TRUE ไม่ต้องมีโปร [VLESS&WS]",
@@ -42,52 +34,28 @@
     "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMS5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI1ZDQ2ZDk4My0zZWVlLTRmNDQtOWVkOS04MGI2NjEyMzkwZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkFJUyBQTEFZIEYxIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },{
     "name": "Thailand-F2 TRUE ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@truemoveh.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#TRUE+NOPRO+F2+VLESS%26WS"
-    },{
-    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
-    "content": "vless://50593ab1-92d3-400d-86bc-b96100932eb2@thailand-f2.net-v2ray.cloud:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F2+VLESS%26GRPC"
-    },{
-    "name": "Thailand-F2 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWM2NGVlN2EtYTAxMy00NDJjLTk2YzUtYjU3NGRkNWVmYmJkIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ2bWVzcy1ncnBjIiwicG9ydCI6IjQ0MyIsInBzIjoiVFJVRSBTT0NJQUwgRjIgVk1FU1NcdTAwMjZHUlBDIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9"
+    "content": "vless://38cb8ab2-96ce-41df-8c7d-c639b175ddb6@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#TRUE+NOPRO+F2+VLESS%26WS"
     },{
     "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@dtacapp.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#DTAC+NOPRO+F2+VLESS%26WS"
+    "content": "vless://38cb8ab2-96ce-41df-8c7d-c639b175ddb6@dtacapp.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#DTAC+NOPRO+F2+VLESS%26WS"
     },{
     "name": "Thailand-F2 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
-    "content": "vless://f2542263-9633-403e-b420-0c1e1d692c7a@thailand-f2.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F2+VLESS%26WS"
+    "content": "vless://55705df3-ff47-4660-bac9-69e63e6ddc29@thailand-f2.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F2+VLESS%26WS"
     },{
     "name": "Thailand-F2 TRUE ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjIuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIxMjg4NTMzMi02NjM0LTQxNmYtYTkyYy04ZjJkMTFiZjU4NjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiVFJVRSBOT1BSTyBGMiBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLmludGVybmV0LXhyYXkuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6InRoYWlsYW5kLWYyLmludGVybmV0LXhyYXkuc2hvcCIsImlkIjoiMTI4ODUzMzItNjYzNC00MTZmLWE5MmMtOGYyZDExYmY1ODYwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgTk9QUk8gRjIgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-F2 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjEyODg1MzMyLTY2MzQtNDE2Zi1hOTJjLThmMmQxMWJmNTg2MCIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmF5dndzIiwicG9ydCI6IjgwIiwicHMiOiJBSVMgUExBWSBGMiBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjIuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIyNTZiM2Q2Ni05M2RhLTQ1YTUtYjllZC01MmMyYTgzNmY5YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRSVUUgTk9QUk8gRjIgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
     "name": "Thailand-F3 TRUE ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@truemoveh.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#TRUE+NOPRO+F3+VLESS%26WS"
-    },{
-    "name": "Thailand-F3 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
-    "content": "vless://35c694d5-b4c3-4451-ae1f-de2d3df82214@thailand-f3.net-v2ray.cloud:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fbcdn.net#TRUE+SOCIAL+F3+VLESS%26GRPC"
-    },{
-    "name": "Thailand-F3 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMy5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjRmNzU5N2MtYzAxNy00OWFjLThhZTQtNGViM2VhMDYxYTM5IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ2bWVzcy1ncnBjIiwicG9ydCI6IjQ0MyIsInBzIjoiVFJVRSBTT0NJQUwgRjMgVk1FU1NcdTAwMjZHUlBDIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9"
+    "content": "vless://d365f14c-0a4c-49cb-93c7-5e103f6c214e@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#TRUE+NOPRO+F3+VLESS%26WS"
     },{
     "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VLESS&WS]",
-    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@dtacapp.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#DTAC+NOPRO+F3+VLESS%26WS"
+    "content": "vless://d365f14c-0a4c-49cb-93c7-5e103f6c214e@dtacapp.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#DTAC+NOPRO+F3+VLESS%26WS"
     },{
     "name": "Thailand-F3 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
-    "content": "vless://bd19d89e-bb91-4a58-aa68-7776292158b4@thailand-f3.internet-xray.shop:80?path=%2Fxrayws&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F3+VLESS%26WS"
+    "content": "vless://d0a30877-7f80-4c4d-8e42-0998a7db0896@thailand-f3.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F3+VLESS%26WS"
     },{
     "name": "Thailand-F3 TRUE ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjMuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIzZTg5Y2UyMC1kNzQyLTQ2NWQtYTQ0Zi01YWIyZTVlMDQyMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiVFJVRSBOT1BSTyBGMyBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJkdGFjYXBwLmludGVybmV0LXhyYXkuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6InRoYWlsYW5kLWYzLmludGVybmV0LXhyYXkuc2hvcCIsImlkIjoiM2U4OWNlMjAtZDc0Mi00NjVkLWE0NGYtNWFiMmU1ZTA0MjAzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgTk9QUk8gRjMgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-F3 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMy5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIzZTg5Y2UyMC1kNzQyLTQ2NWQtYTQ0Zi01YWIyZTVlMDQyMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI4MCIsInBzIjoiQUlTIFBMQVkgRjMgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjMuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiI1OTQ1ZDU4Mi1jMjExLTQ4YzQtYTUyOS1lMjUwYTUwMmIyZWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRSVUUgTk9QUk8gRjMgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
     ]
     }
