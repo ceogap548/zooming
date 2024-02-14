@@ -1,22 +1,27 @@
 {
-    "version": 1.6,
-    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.6
+    "version": 1.7,
+    "message": "  🆙อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 1.7
     🎉ยินดีต้อนรับสมาชิกใหม่เเละสมาชิกเก่าทุกๆท่านนะครับ💝
     📶รองรับเครือข่าย
     🔵DTAC ไม่ต้องมีโปร
     🔴TRUE ไม่ต้องมีโปร
+    🔴TRUE โปรเฟสบุ๊คเกมมิ่ง 
     🟢AIS โปรเอไอเอสเพลย์
   
-    🆙New update, cooler than before🔥 ⚡Version 1.6
+    🆙New update, cooler than before🔥 ⚡Version 1.7
     🎉Welcome all new and old members💝
     📶 Network support
     🔵DTAC no promotion required.
     🔴TRUE No promotion required.
+    🔴TRUE Facebook Gaming Pro
     🟢AIS Play Pro",
     "data": [
     {
     "name": "Thailand-F1 TRUE ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://40371e28-62af-4e22-95c3-04953efc9210@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f1.internet-xray.shop&type=ws#TRUE+NOPRO+F1+VLESS%26WS"
+    },{
+    "name": "Thailand-F1 TRUE โปรเฟสบุ๊คเกมมิ่ง [VLESS&GRPC]",
+    "content": "vless://50593ab1-92d3-400d-86bc-b96100932eb2@thailand-f2.net-v2ray.cloud:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=m.facebook.com#TRUE+SOCIAL+F1+VLESS%26GRPC"
     },{
     "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://40371e28-62af-4e22-95c3-04953efc9210@dtacapp.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f1.internet-xray.shop&type=ws#DTAC+NOPRO+F1+VLESS%26WS"
