@@ -29,7 +29,7 @@
     "name": "Thailand-F1 TRUE โปรเฟสบุ๊คเกมมิ่ง [VMESS&GRPC]",
     "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiIiLCJpZCI6IjI1NDNjNzE2LTk4OWEtNGNkMi1iZTcxLTQxODkxMzQ5ODQwYSIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI0NDMiLCJwcyI6IlRSVUUgU09DSUFMIEYxIFZNRVNTXHUwMDI2R1JQQyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VLESS&WS]",
+    "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VLESS&GRPC]",
     "content": "vless://51b53ef9-656c-462f-b6a0-6c727adcbfa8@love_dtac.app.bossvpn.store:443?mode=gun&fragment=&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=thailand-f2.net-v2ray.cloud#DTAC+NOPRO+F1+VLESS%26GRPC"
     },{
     "name": "Thailand-F1 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
