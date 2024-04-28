@@ -1,6 +1,6 @@
 {
-    "version": 2.1,
-    "message": "อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 2.1
+    "version": 2.2,
+    "message": "อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 2.2
     🙌ยินดีต้อนรับกับการกลับมาครั้งใหม่อีกครั้ง💖
     📶รองรับ
     💙DTAC SOCIAL
@@ -34,9 +34,6 @@
     },{
     "name": "Thailand-F3 TRUE ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://d365f14c-0a4c-49cb-93c7-5e103f6c214e@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#TRUE+NOPRO+F3+VLESS%26WS"
-    },{
-    "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VLESS&WS] ใช้ไม่ได้",
-    "content": "vless://d365f14c-0a4c-49cb-93c7-5e103f6c214e@d-spoe.nopro.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#DTAC+NOPRO+F3+VLESS%26WS"
     },{
     "name": "Thailand-F3 DTAC โปรโซเชียล [VMESS&WS]",
     "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mMy5pbnRlcm5ldC14cmF5LnNob3AiLCJpZCI6IjlmMTlkOWNkLTg3OTQtNGJiOS04Njg3LTFmNzNiZjc5MTdiYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgU09DSUFMIEYzIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
