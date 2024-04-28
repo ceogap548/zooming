@@ -1,9 +1,8 @@
 {
-    "version": 2.0,
-    "message": "อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 2.0
-    🎉ยินดีต้อนรับสมาชิกใหม่เเละสมาชิกเก่าทุกๆท่านนะครับ💝
+    "version": 2.1,
+    "message": "อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 2.1
+    🙌ยินดีต้อนรับกับการกลับมาครั้งใหม่อีกครั้ง💖
     📶รองรับ
-    💙DTAC NOPRO
     💙DTAC SOCIAL
     ❤️TRUE NOPRO
     💚AIS PLAY",
@@ -12,47 +11,32 @@
     "name": "Thailand-F1 TRUE ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://40371e28-62af-4e22-95c3-04953efc9210@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f1.internet-xray.shop&type=ws#TRUE+NOPRO+F1+VLESS%26WS"
     },{
-    "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VLESS&WS] ใช้ไม่ได้",
-    "content": "vless://40371e28-62af-4e22-95c3-04953efc9210@d-spoe.nopro.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f1.internet-xray.shop&type=ws#DTAC+NOPRO+F1+VLESS%26WS"
-    },{
-    "name": "Thailand-F1 DTAC ไม่ต้องมีโปร [VMESS&WS] ใช้ไม่ได้",
-    "content": "vmess://eyJhZGQiOiJkLXNwb2Uubm9wcm8uaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjEuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiI1ZDQ2ZDk4My0zZWVlLTRmNDQtOWVkOS04MGI2NjEyMzkwZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkRUQUMgTk9QUk8gRjEgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
     "name": "Thailand-F1 DTAC โปรโซเชียล [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mMS5uZXQtdjJyYXkuY2xvdWQiLCJpZCI6ImEyYzMyMTRmLTQ1ZmItNGM5NC04OTdiLWQ5OThmZWUxNWIwYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgU09DSUFMIEYxIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mMS5pbnRlcm5ldC14cmF5LnNob3AiLCJpZCI6IjVkNDZkOTgzLTNlZWUtNGY0NC05ZWQ5LTgwYjY2MTIzOTBlNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiRFRBQyBTT0NJQUwgRjEgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="    
     },{
     "name": "Thailand-F1 TRUE ไม่ต้องมีโปร [VMESS&WS]",
     "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjEuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiI1ZDQ2ZDk4My0zZWVlLTRmNDQtOWVkOS04MGI2NjEyMzkwZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRSVUUgTk9QUk8gRjEgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-F1 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMS5uZXQtdjJyYXkuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJhMmMzMjE0Zi00NWZiLTRjOTQtODk3Yi1kOTk4ZmVlMTViMGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBSVMgUExBWSBGMSBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"    
+    "name": "Thailand-F1 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
+    "content": "vless://5219a422-514d-4639-98c9-ed93c59d4ba6@thailand-f1.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F1+VLESS%26WS"    
     },{
     "name": "Thailand-F2 TRUE ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://38cb8ab2-96ce-41df-8c7d-c639b175ddb6@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#TRUE+NOPRO+F2+VLESS%26WS"
     },{
-    "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VLESS&WS] ใช้ไม่ได้",
-    "content": "vless://38cb8ab2-96ce-41df-8c7d-c639b175ddb6@d-spoe.nopro.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f2.internet-xray.shop&type=ws#DTAC+NOPRO+F2+VLESS%26WS"
-    },{
-    "name": "Thailand-F2 DTAC ไม่ต้องมีโปร [VMESS&WS] ใช้ไม่ได้",
-    "content": "vmess://eyJhZGQiOiJkLXNwb2Uubm9wcm8uaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjIuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIyNTZiM2Q2Ni05M2RhLTQ1YTUtYjllZC01MmMyYTgzNmY5YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkRUQUMgTk9QUk8gRjIgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
     "name": "Thailand-F2 DTAC โปรโซเชียล [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mMi5pbnRlcm5ldC14cmF5LnNob3AiLCJpZCI6ImVlMDVkNTgzLTI3OTAtNDM3ZC1jMGM1LTRjNWFiNDAxYzA4NCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgU09DSUFMIEYyIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mMi5pbnRlcm5ldC14cmF5LnNob3AiLCJpZCI6IjI1NmIzZDY2LTkzZGEtNDVhNS1iOWVkLTUyYzJhODM2ZjlhYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiRFRBQyBTT0NJQUwgRjIgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="   
     },{
     "name": "Thailand-F2 TRUE ไม่ต้องมีโปร [VMESS&WS]",
     "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjIuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiIyNTZiM2Q2Ni05M2RhLTQ1YTUtYjllZC01MmMyYTgzNmY5YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRSVUUgTk9QUk8gRjIgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-    "name": "Thailand-F2 AIS โปรเอไอเอสเพลย์ [VMESS&WS]",
-    "content": "vmess://eyJhZGQiOiJ0aGFpbGFuZC1mMi5pbnRlcm5ldC14cmF5LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJlZTA1ZDU4My0yNzkwLTQzN2QtYzBjNS00YzVhYjQwMWMwODQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBSVMgUExBWSBGMiBWTUVTU1x1MDAyNldTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"    
+    "name": "Thailand-F2 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
+    "content": "vless://9ba547b6-4670-481e-88da-ab106e306c77@thailand-f2.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F2+VLESS%26WS"    
     },{
     "name": "Thailand-F3 TRUE ไม่ต้องมีโปร [VLESS&WS]",
     "content": "vless://d365f14c-0a4c-49cb-93c7-5e103f6c214e@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#TRUE+NOPRO+F3+VLESS%26WS"
     },{
     "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VLESS&WS] ใช้ไม่ได้",
     "content": "vless://d365f14c-0a4c-49cb-93c7-5e103f6c214e@d-spoe.nopro.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f3.internet-xray.shop&type=ws#DTAC+NOPRO+F3+VLESS%26WS"
-    },{
-    "name": "Thailand-F3 DTAC ไม่ต้องมีโปร [VMESS&WS] ใช้ไม่ได้",
-    "content": "vmess://eyJhZGQiOiJkLXNwb2Uubm9wcm8uaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjMuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiI1OTQ1ZDU4Mi1jMjExLTQ4YzQtYTUyOS1lMjUwYTUwMmIyZWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkRUQUMgTk9QUk8gRjMgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
     "name": "Thailand-F3 DTAC โปรโซเชียล [VMESS&WS]",
     "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mMy5pbnRlcm5ldC14cmF5LnNob3AiLCJpZCI6IjlmMTlkOWNkLTg3OTQtNGJiOS04Njg3LTFmNzNiZjc5MTdiYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMgU09DSUFMIEYzIFZNRVNTXHUwMDI2V1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
