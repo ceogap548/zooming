@@ -63,7 +63,19 @@
     },{
     "name": "Thailand-F5 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
     "content": "vless://5e294afa-65f4-4790-98c8-7c9cbb9d512f@thailand-f5.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F5+VLESS%26WS"
-    }
+    },{
+    "name": "Thailand-F6 TRUE ไม่ต้องมีโปร [VLESS&WS]",
+    "content": "vless://4be60eb4-da56-4738-b504-5bcfea31cf1e@truemoveh.internet-xray.shop:8880?path=%2F&fragment=&security=none&encryption=none&host=thailand-f6.internet-xray.shop&type=ws#TRUE+NOPRO+F6+VLESS%26WS"    
+    },{
+    "name": "Thailand-F6 TRUE ไม่ต้องมีโปร [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJ0cnVlbW92ZWguaW50ZXJuZXQteHJheS5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImZyYWdtZW50IjoiIiwiZnJhZ21lbnRfdjEiOiIiLCJob3N0IjoidGhhaWxhbmQtZjYuaW50ZXJuZXQteHJheS5zaG9wIiwiaWQiOiI4OGRmMjRhYy04YzY0LTQxODktYTQxMy1iYmM2ZTIyZmQyNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRSVUUgTk9QUk8gRjYgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+    "name": "Thailand-F6 AIS โปรเอไอเอสเพลย์ [VLESS&WS]",
+    "content": "vless://25209789-36b9-4a11-aff3-bdb0af38b0ae@thailand-f6.internet-xray.shop:443?path=%2F&fragment=&security=none&encryption=none&host=speedtest.net&type=ws#AIS+PLAY+F6+VLESS%26WS"    
+    },{
+    "name": "Thailand-F6 DTAC โปรโซเชียล [VMESS&WS]",
+    "content": "vmess://eyJhZGQiOiJkdGFjLXNvY2lhbC50aGFpcHJvLXZwbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ0aGFpbGFuZC1mNi5pbnRlcm5ldC14cmF5LnNob3AiLCJpZCI6Ijg4ZGYyNGFjLThjNjQtNDE4OS1hNDEzLWJiYzZlMjJmZDI1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiRFRBQyBTT0NJQUwgRjYgVk1FU1NcdTAwMjZXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
 
     
  ],
@@ -75,5 +87,5 @@
 
 🙏ขอขอบคุณทุกๆการสนับสนุน💕",
 "title":"อัปเดตล่าสุดวันที่ 02/06/2024" ,
-  "version": 3
+  "version": 2.4,
 }
