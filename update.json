@@ -1,6 +1,6 @@
 {
-    "version": 2.5,
-    "message": "อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 2.5
+    "version": 2.6,
+    "message": "อัปเดตใหม่ไฉไลกว่าเดิม🔥 ⚡เวอร์ชั่น 2.6
     🙌ยินดีต้อนรับกับการกลับมาครั้งใหม่อีกครั้ง💖
     📶รองรับ
     💙DTAC SOCIAL
@@ -14,7 +14,7 @@
     "content": "vmess://eyJhZGQiOiJ3d3cub3BlbnNpZ25hbC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ3d3cub3BlbnNpZ25hbC5jb20uZGVkaWNhdGVkLTEuYnktdGhhaXByby12cG4tY29weXJpZ2h0LmJ1enoiLCJpZCI6IjM3NjBmOGI5LWRkNmQtNDc1OC1iMDNiLWRjMTRhMjI3OThkNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiMSBUUlVFLU5PUFJPIGNvcHlyaWdodCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
     "name": "Thailand-F1 TRUE โปรเฟซบุ๊กเกมมิ่ง",
-    "content": "vmess://eyJhZGQiOiJ0aGFpcHJvLXZwbi10cnVlc29jaWFsLm15d2lyZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJkZWRpY2F0ZWQtMS5ieS10aGFpcHJvLXZwbi1jb3B5cmlnaHQuYnV6eiIsImlkIjoiMzc2MGY4YjktZGQ2ZC00NzU4LWIwM2ItZGMxNGEyMjc5OGQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiIxIFRSVUUtU09DSUFMIGNvcHlyaWdodCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="    
+    "content": "vless://80fe7ff2-219c-4bce-b90f-bd1cf7228017@dedicated-1.by-thaipro-vpn-copyright.buzz:10809?fragment=&security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=facebook.com#1+TRUE-FACEBOOK+GAMEING+copyright"    
     },{
     "name": "Thailand-F1 DTAC โปรโซเชียล",
     "content": "vmess://eyJhZGQiOiJ0aGFpcHJvLXZwbi1kdGFjc29jaWFsLm15d2lyZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJkZWRpY2F0ZWQtMS5ieS10aGFpcHJvLXZwbi1jb3B5cmlnaHQuYnV6eiIsImlkIjoiMzc2MGY4YjktZGQ2ZC00NzU4LWIwM2ItZGMxNGEyMjc5OGQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiIxIERUQUMtU09DSUFMIGNvcHlyaWdodCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
@@ -29,7 +29,7 @@
     "content": "trojan://cb5d28ad-035d-45b9-b9ca-d15cd61dfed6@www.opensignal.com:80?path=%2Ftrojan-ws&fragment=&security=none&host=www.opensignal.com.gaming-2.by-thaipro-vpn-copyright.buzz&type=ws#2+TRUE-NOPRO+copyright"   
     },{
     "name": "Thailand-F2 TRUE โปรเฟซบุ๊กเกมมิ่ง",
-    "content": "trojan://cb5d28ad-035d-45b9-b9ca-d15cd61dfed6@gaming-2.by-thaipro-vpn-copyright.buzz:443?mode=gun&fragment=sni&security=tls&type=grpc&serviceName=trojan-grpc&sni=fbcdn.net#2+TRUE-SOCIAL+copyright"
+    "content": "vless://8dc5c078-44bf-42e8-aa82-3d1fba4d6495@dedicated-2.by-thaipro-vpn-copyright.buzz:10808?fragment=&security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=facebook.com#2+TRUE-FACEBOOK+GAMEING+copyright"    
     },{
     "name": "Thailand-F2 DTAC โปรโซเชียล",
     "content": "trojan://cb5d28ad-035d-45b9-b9ca-d15cd61dfed6@thaipro-vpn-dtacsocial.mywire.org:80?path=%2Ftrojan-ws&fragment=&security=none&host=gaming-2.by-thaipro-vpn-copyright.buzz&type=ws#2+DTAC-SOCIAL+copyright"    
