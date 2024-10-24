@@ -1,18 +1,38 @@
 {
-    "version": 2.9,
-    "message": "Config version 2.9\n👋Hello, welcome to the ZEEDVPN family.\n🙏Thank you for trusting in our free internet service.\n⚠️Please press confirm update.\n•อัปเดทเซิฟเวอร์ใหม่\nเพื่อการใช้งานเน็ตฟรีอย่างต่อเนื่อง\n⚠️กรุณากดยืนยันอัปเดต\n📌ดาวน์โหลดแอปได้ที่ Playstore เท่านั้น",
+    "version": 3.0,
+    "message": "Config version 3.0\n👋Hello, welcome to the ZEEDVPN family.\n🙏Thank you for trusting in our free internet service.\n⚠️Please press confirm update.\n•อัปเดทเซิฟเวอร์ใหม่\nเพื่อการใช้งานเน็ตฟรีอย่างต่อเนื่อง\n⚠️กรุณากดยืนยันอัปเดต\n📌ดาวน์โหลดแอปได้ที่ Playstore เท่านั้น",
     "data": [
         {
-    "name": "Thailand-DC1 TRUE ไม่ต้องมีโปร",
-    "content": "vmess://eyJhZGQiOiJ3d3cub3BlbnNpZ25hbC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJmcmFnbWVudF92MSI6IiIsImhvc3QiOiJ3d3cub3BlbnNpZ25hbC5jb20uZGVkaWNhdGVkLTEuYnktdGhhaXByby12cG4tY29weXJpZ2h0LmJ1enoiLCJpZCI6IjM3NjBmOGI5LWRkNmQtNDc1OC1iMDNiLWRjMTRhMjI3OThkNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiREMxIFRSVUUtTk9QUk8gY29weXJpZ2h0IFpFRURWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "name": "Thailand-01 TRUE ไม่ต้องมีโปร",
+    "content": "vless://89269269-7b2f-48d1-bcf5-f20ceb1f8241@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro2.server-spicy.online&type=ws#TH-01+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
         },
         {
-    "name": "Thailand-DC1 TRUE โปรเฟซบุ๊กเกมมิ่ง",
-    "content": "vless://80fe7ff2-219c-4bce-b90f-bd1cf7228017@dedicated-1.by-thaipro-vpn-copyright.buzz:10809?fragment=&security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=facebook.com#DC1+TRUE-FACEBOOK+copyright+ZEEDVPN"    
+    "name": "Thailand-01 AIS โปรเอไอเอสเพลย์",
+    "content": "vless://89269269-7b2f-48d1-bcf5-f20ceb1f8241@speed-2.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-01+AIS-PLAY+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
         },
         {
-    "name": "Thailand-DC1 AIS โปรเอไอเอสเพลย์",
-    "content": "vless://bed20efa-6d3e-465c-a41d-df33c766e199@dedicated-1.by-thaipro-vpn-copyright.buzz:443?path=%2F&fragment=&security=none&encryption=none&host=www.speedtest.net&type=ws#DC1+AIS-PLAY+copyright+ZEEDVPN"
+    "name": "Thailand-02 TRUE ไม่ต้องมีโปร",
+    "content": "vless://517f0113-5ed6-401c-bf97-f66205437cee@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro3.server-spicy.online&type=ws#TH-02+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-02 AIS โปรเอไอเอสเพลย์",
+    "content": "vless://517f0113-5ed6-401c-bf97-f66205437cee@speed-3.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-02+AIS-PLAY+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-03 TRUE ไม่ต้องมีโปร",
+    "content": "vless://7af2512a-7a86-49f4-aa1e-aad763d5697b@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro4.server-spicy.online&type=ws#TH-03+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-03 AIS โปรเอไอเอสเพลย์",
+    "content": "vless://7af2512a-7a86-49f4-aa1e-aad763d5697b@speed-4.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-03+AIS-PLAY+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-04 TRUE ไม่ต้องมีโปร",
+    "content": "vless://b48efae2-9b72-4012-b212-7d8789feadb4@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro5.server-spicy.online&type=ws#TH-04+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-04 AIS โปรเอไอเอสเพลย์",
+    "content": "vless://b48efae2-9b72-4012-b212-7d8789feadb4@speed-5.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-04+AIS-PLAY+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"        
         }
        ]
       } 
