@@ -1,10 +1,14 @@
 {
-    "version": 3.0,
-    "message": "Config version 3.0\n👋Hello, welcome to the ZEEDVPN family.\n🙏Thank you for trusting in our free internet service.\n⚠️Please press confirm update.\n•อัปเดทเซิฟเวอร์ใหม่\nเพื่อการใช้งานเน็ตฟรีอย่างต่อเนื่อง\n⚠️กรุณากดยืนยันอัปเดต\n📌ดาวน์โหลดแอปได้ที่ Playstore เท่านั้น",
+    "version": 3.1,
+    "message": "Config version 3.1\n👋Hello, welcome to the ZEEDVPN family.\n🙏Thank you for trusting in our free internet service.\n⚠️Please press confirm update.\n•อัปเดทเซิฟเวอร์ใหม่\nเพื่อการใช้งานเน็ตฟรีอย่างต่อเนื่อง\n⚠️กรุณากดยืนยันอัปเดต\n📌ดาวน์โหลดแอปได้ที่ Playstore เท่านั้น",
     "data": [
         {
     "name": "Thailand-01 TRUE ไม่ต้องมีโปร",
-    "content": "vless://89269269-7b2f-48d1-bcf5-f20ceb1f8241@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro2.server-spicy.online&type=ws#TH-01+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+    "content": "vless://89269269-7b2f-48d1-bcf5-f20ceb1f8241@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro2.server-spicy.online&type=ws#TH-01+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-01 DTAC ไม่ต้องมีโปร",
+    "content": "vless://89269269-7b2f-48d1-bcf5-f20ceb1f8241@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro2.server-spicy.online&type=ws#TH-01+DTAC-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
         },
         {
     "name": "Thailand-01 AIS โปรเอไอเอสเพลย์",
@@ -12,7 +16,11 @@
         },
         {
     "name": "Thailand-02 TRUE ไม่ต้องมีโปร",
-    "content": "vless://517f0113-5ed6-401c-bf97-f66205437cee@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro3.server-spicy.online&type=ws#TH-02+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+    "content": "vless://517f0113-5ed6-401c-bf97-f66205437cee@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro3.server-spicy.online&type=ws#TH-02+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-02 DTAC ไม่ต้องมีโปร",
+    "content": "vless://517f0113-5ed6-401c-bf97-f66205437cee@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro3.server-spicy.online&type=ws#TH-02+DTAC-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
         },
         {
     "name": "Thailand-02 AIS โปรเอไอเอสเพลย์",
@@ -20,7 +28,11 @@
         },
         {
     "name": "Thailand-03 TRUE ไม่ต้องมีโปร",
-    "content": "vless://7af2512a-7a86-49f4-aa1e-aad763d5697b@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro4.server-spicy.online&type=ws#TH-03+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+    "content": "vless://7af2512a-7a86-49f4-aa1e-aad763d5697b@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro4.server-spicy.online&type=ws#TH-03+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-03 DTAC ไม่ต้องมีโปร",
+    "content": "vless://7af2512a-7a86-49f4-aa1e-aad763d5697b@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro4.server-spicy.online&type=ws#TH-03+DTAC-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
         },
         {
     "name": "Thailand-03 AIS โปรเอไอเอสเพลย์",
@@ -28,7 +40,11 @@
         },
         {
     "name": "Thailand-04 TRUE ไม่ต้องมีโปร",
-    "content": "vless://b48efae2-9b72-4012-b212-7d8789feadb4@www.opensignal.com:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro5.server-spicy.online&type=ws#TH-04+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+    "content": "vless://b48efae2-9b72-4012-b212-7d8789feadb4@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro5.server-spicy.online&type=ws#TH-04+TRUE-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
+        },
+        {
+    "name": "Thailand-04 DTAC ไม่ต้องมีโปร",
+    "content": "vless://b48efae2-9b72-4012-b212-7d8789feadb4@dtac-true.server-spicy.online:80?path=%2F&fragment=&security=none&encryption=none&host=www.opensignal.com.truenopro5.server-spicy.online&type=ws#TH-04+DTAC-NOPRO+%5B%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+SPICY-VPN%5D"
         },
         {
     "name": "Thailand-04 AIS โปรเอไอเอสเพลย์",
