@@ -1,38 +1,38 @@
-{
+   {
     "version": 3.3,
     "message": "Config version 3.3 Beta\n👋Hello, welcome to the ZEEDVPN family.\n🙏Thank you for trusting in our free internet service.\n⚠️Please press confirm update.\n•อัปเดทเซิฟเวอร์ใหม่\nเพื่อการใช้งานเน็ตฟรีอย่างต่อเนื่อง\n⚠️กรุณากดยืนยันอัปเดต\n📌ดาวน์โหลดแอปได้ที่ Playstore เท่านั้น",
-    "data": [
-        {
+    "data":[
+      {
     "name": "Thailand-01 AIS PLAY โปรเอไอเอสเพลย์",
     "content": "vless://05b807d8-85ae-4497-9d28-1b3d6221409d@www.th-one.server.copyright-zeedvpn-app.buzz:443?security=none&encryption=none&host=speedtest.adslthailand.com&headerType=http&type=tcp#TH-01%20AIS-PLAY%20%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B9%80%E0%B8%AD%E0%B8%9B%20ZEED%20VPN%20%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99"
-        },
-        {
+      },
+      {
     "name": "Thailand-01 TRUE ID โปรทรูไอดี",
     "content": "vmess://eyJhZGQiOiJ0dGlkLmNvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cudGgtb25lLnNlcnZlci5jb3B5cmlnaHQtemVlZHZwbi1hcHAuYnV6eiIsImlkIjoiZDQ3MTc1NzMtN2YzYy00NWQ2LTg4NGEtYzZlNzYxN2IzNTNjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJUSC0wMSBUUlVFLUlEIOC4quC4h+C4p+C4meC4quC4tOC4l+C4mOC4tOC5jOC5g+C4q+C5ieC4geC4seC4muC5gOC5gOC4reC4myBaRUVEIFZQTiDguYDguJfguYjguLLguJnguLHguYnguJkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-        },
-        {
+      },
+      {
     "name": "Thailand-01 TRUE VIU โปรทรูวิว",
     "content": "vmess://eyJhZGQiOiJoZWxwLnZpdS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy50aC1vbmUuc2VydmVyLmNvcHlyaWdodC16ZWVkdnBuLWFwcC5idXp6IiwiaWQiOiI0NDkxZmNmMS1hNzg2LTRjYTAtODcyZi01Yjg1NjBmZjdlYjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRILTAxIFRSVUUtVklVIOC4quC4h+C4p+C4meC4quC4tOC4l+C4mOC4tOC5jOC5g+C4q+C5ieC4geC4seC4muC5gOC5gOC4reC4myBaRUVEIFZQTiDguYDguJfguYjguLLguJnguLHguYnguJkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-        },
-        {
+      },
+      {
     "name": "Thailand-01 DTAC GAME โปรดีเเทคเกมมิ่ง",
     "content": "vmess://eyJhZGQiOiJob3N0aW5nLWR0YWMtZ2FtZS5jb3B5cmlnaHQtemVlZHZwbi1hcHAuYnV6eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnRoLW9uZS5zZXJ2ZXIuY29weXJpZ2h0LXplZWR2cG4tYXBwLmJ1enoiLCJpZCI6IjdjM2VlMjk3LTU4ZWItNDUxZi05M2NhLTZjMzVmOTk5MzNkOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVEgtMDEgRFRBQy1HQU1FIOC4quC4h+C4p+C4meC4quC4tOC4l+C4mOC4tOC5jOC5g+C4q+C5ieC4geC4seC4muC5gOC5gOC4reC4myBaRUVEIFZQTiDguYDguJfguYjguLLguJnguLHguYnguJkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-        },
-        {
+      },
+      {
     "name": "Thailand-02 AIS PLAY โปรเอไอเอสเพลย์",
     "content": "vless://8730eb4a-ec5f-4c3e-974d-3b383ffdf612@www.th-two.server.copyright-zeedvpn-app.buzz:443?security=none&encryption=none&host=speedtest.adslthailand.com&headerType=http&type=tcp#TH-02%20AIS-PLAY%20%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B9%80%E0%B8%AD%E0%B8%9B%20ZEED%20VPN%20%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99"
-        },
-        {
+      },
+      {
     "name": "Thailand-02 TRUE ID โปรทรูไอดี",
     "content": "vmess://eyJhZGQiOiJ0dGlkLmNvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cudGgtdHdvLnNlcnZlci5jb3B5cmlnaHQtemVlZHZwbi1hcHAuYnV6eiIsImlkIjoiZTMzZmVlNjUtZmJhZC00NGM5LTlkNjItNGMzZjExNzhiNmUxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJUSC0wMiBUUlVFLUlEIOC4quC4h+C4p+C4meC4quC4tOC4l+C4mOC4tOC5jOC5g+C4q+C5ieC4geC4seC4muC5gOC5gOC4reC4myBaRUVEIFZQTiDguYDguJfguYjguLLguJnguLHguYnguJkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-        },
-        {
+      },
+      {
     "name": "Thailand-02 TRUE VIU โปรทรูวิว",
     "content": "vmess://eyJhZGQiOiJoZWxwLnZpdS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy50aC10d28uc2VydmVyLmNvcHlyaWdodC16ZWVkdnBuLWFwcC5idXp6IiwiaWQiOiIzMDM0NjE2Yy0xMzZjLTQ0NjMtOWM5My02NWZkMDlhM2MyNGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlRILTAyIFRSVUUtVklVIOC4quC4h+C4p+C4meC4quC4tOC4l+C4mOC4tOC5jOC5g+C4q+C5ieC4geC4seC4muC5gOC5gOC4reC4myBaRUVEIFZQTiDguYDguJfguYjguLLguJnguLHguYnguJkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-        },
-        {
+      },
+      {
     "name": "Thailand-02 DTAC GAME โปรดีเเทคเกมมิ่ง",
     "content": "vmess://eyJhZGQiOiJob3N0aW5nLWR0YWMtZ2FtZS5jb3B5cmlnaHQtemVlZHZwbi1hcHAuYnV6eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnRoLXR3by5zZXJ2ZXIuY29weXJpZ2h0LXplZWR2cG4tYXBwLmJ1enoiLCJpZCI6ImYxOTVhZjAyLTMzOWUtNDhhOC1hN2MzLWVjN2M4ZTg5NWQzNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiVEgtMDIgRFRBQy1HQU1FIOC4quC4h+C4p+C4meC4quC4tOC4l+C4mOC4tOC5jOC5g+C4q+C5ieC4geC4seC4muC5gOC5gOC4reC4myBaRUVEIFZQTiDguYDguJfguYjguLLguJnguLHguYnguJkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0="
-        }
-       ]
-      }
+      }
+     ]
+    }
